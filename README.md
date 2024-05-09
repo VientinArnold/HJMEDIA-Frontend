@@ -1,1 +1,1 @@
-# omega-frontend
+# HJ MEDIA Landing Page
